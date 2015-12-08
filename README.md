@@ -3,6 +3,8 @@ libewok
 
 EWAH Compressed bitmaps in C.
 
+
+
 Usage
 -----
 
@@ -49,3 +51,6 @@ Original contributors as follows:
 - Robert Becho (https://github.com/RBecho),
 - Colby Ranger (https://github.com/crangeratgoogle)
 - Veronika Zenz (https://github.com/veronikazenz)
+
+
+This is not the original EWAH Compressed Bitmaps Repository. More functionalities have been added by Jia Yu. Please refer ewok.h for usage.
